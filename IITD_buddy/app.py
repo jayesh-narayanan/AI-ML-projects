@@ -2,7 +2,7 @@ import streamlit as st
 import openai  # Replace with your model's API library if different
 
 # Set up OpenAI API key (replace with your API key or setup logic)
-openai.api_key = "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"
+openai.api_key = "OPEN_AI_API_KEY"
 
 # Streamlit app
 st.title("IITD_buddy")
